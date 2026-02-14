@@ -56,13 +56,7 @@ Im developer and AI enthusiast. Nice to meet you!
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shepard25&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<br/> 
 
 
 ## Recent Blog Posts  
